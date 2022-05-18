@@ -25,3 +25,8 @@ function change1(){
             giffy.style.opacity = "0";
         }
       }
+function sub(){
+var a;
+var b;
+var c= a-b;
+document.write("after subtraction ", c)}
